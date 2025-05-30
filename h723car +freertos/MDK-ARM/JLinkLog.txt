@@ -1,0 +1,42 @@
+T6644 000:173.947   SEGGER J-Link V8.26 Log File
+T6644 000:174.115   DLL Compiled: Apr 11 2025 07:49:49
+T6644 000:174.142   Logging started @ 2025-05-28 08:27
+T6644 000:174.168   Process: D:\keil5\UV4\UV4.exe
+T6644 000:174.209 - 174.193ms 
+T6644 000:174.242 JLINK_SetWarnOutHandler(...)
+T6644 000:174.275 - 0.036ms 
+T6644 000:174.304 JLINK_OpenEx(...)
+T6644 000:180.173   Firmware: J-Link OB-STM32F072-CortexM compiled Sep 26 2016 10:03:56
+T6644 000:181.164   Firmware: J-Link OB-STM32F072-CortexM compiled Sep 26 2016 10:03:56
+T6644 000:181.343   Decompressing FW timestamp took 111 us
+T6644 000:182.568   Decompressing FW took 1175 us
+T6644 000:182.921   Looking for J-Link GUI Server exe at: D:\keil5\ARM\Segger\JLinkGUIServer.exe
+T6644 000:183.278   Looking for J-Link GUI Server exe at: D:\Jlink\JLink\JLinkGUIServer.exe
+T6644 000:183.417   Forking J-Link GUI Server: D:\Jlink\JLink\JLinkGUIServer.exe
+T6644 000:402.767   J-Link GUI Server info: "J-Link GUI server V8.26 "
+T6644 002:746.334   Updating firmware:  J-Link OB-STM32F072-CortexM compiled Jan  7 2019 14:09:37
+T6644 002:746.378   Replacing firmware: J-Link OB-STM32F072-CortexM compiled Sep 26 2016 10:03:56
+T6644 002:746.656   Looking for J-Link GUI Server exe at: D:\keil5\ARM\Segger\JLinkGUIServer.exe
+T6644 002:746.788   Looking for J-Link GUI Server exe at: D:\Jlink\JLink\JLinkGUIServer.exe
+T6644 002:746.864   Forking J-Link GUI Server: D:\Jlink\JLink\JLinkGUIServer.exe
+T6644 002:764.126   J-Link GUI Server info: "J-Link GUI server V8.26 "
+T6644 048:412.660   
+  ***** Error: 
+T6644 048:412.704   Communication timeout. Emulator did not re-enumerate.
+T6644 056:072.500   
+  ***** Error: 
+T6644 056:072.532   Cannot connect to J-Link
+T6644 056:072.840 - 55898.536ms returns "Communication timeout. Emulator did not re-enumerate.
+Cannot connect to J-Link"
+T6644 056:073.364 
+  ***** Warning: 
+T6644 056:073.388 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T6644 056:073.408 JLINK_GetHardwareVersion()
+T6644 056:078.028   
+  ***** Error: 
+T6644 056:078.080   Cannot connect to J-Link.
+T6644 056:078.380 - 4.971ms 
+T6644 067:324.432 JLINK_Close()
+T6644 067:324.656 - 0.223ms
+T6644 067:324.704   
+T6644 067:324.720   Closed

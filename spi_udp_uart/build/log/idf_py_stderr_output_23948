@@ -1,0 +1,2 @@
+CMake Error: The current CMakeCache.txt directory D:/1_esp32_project/spi_udp_uart/build/CMakeCache.txt is different than the directory d:/esp32 s3 code/spi_udp_uart/build where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CMake Error: The source "D:/1_esp32_project/spi_udp_uart/CMakeLists.txt" does not match the source "D:/esp32 s3 code/spi_udp_uart/CMakeLists.txt" used to generate cache.  Re-run cmake with a different source directory.

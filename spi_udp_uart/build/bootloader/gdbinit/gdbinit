@@ -1,0 +1,2 @@
+source D:/1_esp32_project/spi_udp_uart/build/bootloader/gdbinit/symbols
+source D:/1_esp32_project/spi_udp_uart/build/bootloader/gdbinit/connect
